@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Login": "admin",
+    "Password": "12345",
+    "IsDelete": false
+  },
+  {
+    "Login": "adm",
+    "Password": "12345",
+    "IsDelete": true
+  },
+  {
+    "Login": "user",
+    "Password": "123",
+    "IsDelete": false
+  }
+]
